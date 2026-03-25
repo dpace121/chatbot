@@ -12,12 +12,12 @@ A full-stack AI chatbot application built using React (Frontend) and Node.js (Ba
 
 🛠️ Tech Stack
 
-Frontend
+Frontend:
 React.js
 Axios
 Tailwind CSS
 
-Backend
+Backend:
 Node.js
 Express.js
 Grok API (AI Model)
